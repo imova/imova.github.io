@@ -23,9 +23,10 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jemoji"
   gem "jekyll-gist"
-  gem 'html-proofer'
-  gem 'font-awesome-sass'
-  gem 'jekyll-archives'
+  gem "html-proofer"
+  gem "font-awesome-sass"
+  gem "jekyll-archives"
+  gem "github-pages"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
