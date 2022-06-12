@@ -306,4 +306,4 @@ defaults:
       related: # true
 future: true
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
