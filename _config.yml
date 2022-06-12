@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "1m0va"
+title                    : "imova.github.io"
 title_separator          : "-"
 subtitle                 : "begin."
 name                     : "Brian Schwartz"
-description              : "Sibling site to imova.com."
-url                      : "https://www.1m0va.com"
+description              : "My GitHub Site."
+url                      : "https://imova.github.io"
 baseurl                  : "/"
-repository               : "fujiyama17"
+repository               : "imova.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/images/favicon/android-chrome-192x192.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -35,8 +35,7 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+  facebook               : # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -103,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "Brian Schwartz"
-  avatar           : "/images/bio-photo.png"
-  bio              : "My Pentesting Blog"
+  avatar           : "/images/bio-photo2.png"
+  bio              : "My GitHub Site"
   location         : 
   email            : "bschwartz@imova.com"
   links:
@@ -125,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/fujiyama17"
+      url: "https://github.com/imova"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
