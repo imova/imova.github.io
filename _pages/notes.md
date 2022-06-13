@@ -23,7 +23,7 @@ Note: if you follow these guys on Twitter they post discount codes for their cou
 - [Tib3rius - Windows Privilege Escalation for OSCP & Beyond!](https://www.udemy.com/course/windows-privilege-escalation/)
 - [Tib3rius - Linux Privilege Escalation for OSCP & Beyond!](https://www.udemy.com/course/linux-privilege-escalation/)
 
-Then do some Hacking Labs - Here are some Options
+### Hacking Labs - Here are some Options
 
 - [TryHackMe (THM) - $10/M](https://tryhackme.com/)
 - [HackTheBox (HTB) - $20/M](https://www.hackthebox.eu/)
