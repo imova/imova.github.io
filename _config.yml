@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "imova.github.io"
+title                    : "begin."
 title_separator          : "-"
-subtitle                 : "begin."
+subtitle                 : #"begin."
 name                     : "Brian Schwartz"
 description              : "My GitHub Site."
 url                      : "https://imova.github.io"
