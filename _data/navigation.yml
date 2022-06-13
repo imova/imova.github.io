@@ -1,9 +1,5 @@
 # main links
 main:
-  - title: "Books"
-    url: /books/
-  - title: "Athletics"
-    url: /athletics/
   - title: "PTP Notes"
     url: /notes/
   - title: "About"
