@@ -1,6 +1,6 @@
 ## Welcome to my Github Website
 
-You [ready to check it out](https://imova.github.io)?  It's my profesional site, geared toward my cybersecurity profession and :heart: for the :computer:
+You [ready to check it out](https://imova.github.io)?  It's my professional site, geared toward my cybersecurity profession and :heart: for the :computer:
 
 ### My Other Site
 
