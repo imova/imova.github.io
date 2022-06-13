@@ -12,4 +12,4 @@ You can always check out my other site, [https://www.imova.com/](https://www.imo
 - [Twitter](https://www.twitter.com/mova)
 - [LinkedIn](https://wwww.linkedin.com/in/imova)
 
-<img src="/images/ukraine_heart.png">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/ukraine_heart.png">
