@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Thanks for checking out my GitHub Site!  I have a site at [imova.com](https://imova.com/) that talks a bit more [about me](https://imova.com/about-me/), but this site is for my eCPPT notes, machine walkthroughs and professional musings.
+Thanks for checking out my GitHub Site!  I have a site at [imova.com](https://imova.com/) that talks a bit more [about me](https://imova.com/about-me/).  This site is for my eCPPT notes, machine walkthroughs, and professional musings.
 <div align="center">
 <img src="/images/collage.png">
 </div><br />
